@@ -9,9 +9,9 @@
 ![made-with-MySql](https://img.shields.io/badge/Made%20with-MySql-1f425f.svg)
 ![made-with-Nodejs](https://img.shields.io/badge/Made%20with-Nodejs-1f425f.svg)
 ![made-with-javaScript](https://img.shields.io/badge/Made%20with-javaScript-1f425f.svg)
-![made-with-Sequelize](https://img.shields.io/badge/Made%20with-javaScript-1f425f.svg)
 
- **Link to walkthrough video:**
+
+ **Link to walkthrough video:** https://youtu.be/2pUvIi8FqoI
  
   ## Table of Contents
   * [Installation](#installation)
